@@ -1,0 +1,7 @@
+streamlit                #web app dekhhhny k lia   
+langchain                #LLM tools aur chains banane ke liye
+python-dotenv            #.env se secrets (API keys) load karne ke liye
+
+langchain-community      #Extra tools aur retrievers ke liye 
+
+langchain-groq           #Groq ke LLMs use karne ke liye LangChain mein
